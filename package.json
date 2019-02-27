@@ -1,0 +1,44 @@
+{
+  "name": "react-native-image-grid",
+  "version": "0.0.1",
+  "description": "Gallery Tile",
+  "scripts": {
+    "test": "command for testing package"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/aspidvip/react-native-image-grid/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspidvip/react-native-image-grid"
+  },
+  "license": "MIT",
+  "author": "",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "gallery",
+    "tile",
+    "android",
+    "ios",
+    "windows"
+  ],
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-native": "^0.57.5",
+    "react-native-responsive-screen": "^1.1.10"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-native": "^3.5.0",
+    "prettier": "^1.14.3"
+  }
+}
